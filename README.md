@@ -1,4 +1,5 @@
 # first-repository
 This is my first Git repository.
 <hr>
-Author - Utkarsh Srivastava
+Author - Utkarsh Bhaiya
+
